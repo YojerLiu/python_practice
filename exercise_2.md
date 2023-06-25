@@ -1,3 +1,5 @@
+Complete the 2 tasks below in [exercise_2.py](exercise_2.py).
+
 1. Given two different lists:
 
 ```Python
